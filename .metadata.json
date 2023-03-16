@@ -1,0 +1,12 @@
+[
+  {
+    "package": "JumpeR"
+  },
+  {
+    "package": "SwimmeR"
+  },
+  {
+    "package": "ThreeWiseMonkeys",
+    "oncran": true
+  }
+]
